@@ -8,12 +8,12 @@ Sou Diego Almeida, desenvolvedor Full Stack Júnior 👨‍💻, apaixonado por 
 - 🌱 Atualmente estou aprendendo React JS, React Native e melhorias no JavaScript.
 -  ⚡ Tecnologias: Node, Express, SQL, MongoDB, Angular, Ionic.
 
-"Seja melhor do que ontem, e amanhã melhor do que hoje."
+"Seja melhor do que ontem e amanhã melhor do que hoje."
 
-## Hi 👋, 
+## Hello 👋, 
 I'm Diego Almeida, Full Stack Junior developer 👨‍💻, passionate about Javascript technologies and his entire ecosystem.
 - 🔭 I am currently working on applications and systems with Javascript and ADVPL (Advanced Protheus Language).
 - 🌱 I am currently learning React JS, React Native and JavaScript improvements.
 -  ⚡ Technologies: Node, Express, SQL, MongoDB, Angular, Ionic.
 
-"Be better than yesterday, and tomorrow better than today."
+"Be better than yesterday and tomorrow better than today."
