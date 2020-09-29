@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dyhalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyhalmeida@gmail.com)](mailto:dyhalmeida@gmail.com)
 
 ## Olá 👋, 
-Sou Diego Almeida, desenvolvedor júnior, apaixonado por tecnologias Javascript.
+Sou Diego Almeida, desenvolvedor, apaixonado por tecnologias Javascript.
 - :office_worker: Atualmente estou trabalhando em aplicativos e sistemas com Javascript e ADVPL (Advanced Protheus Language).
 - :books: Atualmente estou estudando React JS, React Native e melhorias no JavaScript.
 - :blue_heart: Tecnologias: Node, Express, SQL, MongoDB, Angular, Ionic.
@@ -14,7 +14,7 @@ Sou Diego Almeida, desenvolvedor júnior, apaixonado por tecnologias Javascript.
 "Seja melhor do que ontem e amanhã melhor do que hoje."
 
 ## Hello 👋, 
-I'm Diego Almeida, junior developer, passionate about Javascript technologies.
+I'm Diego Almeida, developer, passionate about Javascript technologies.
 - :office_worker: I am currently working on applications and systems with Javascript and ADVPL (Advanced Protheus Language).
 - :books: I am currently studying React JS, React Native and JavaScript improvements.
 - :blue_heart: Technologies: Node, Express, SQL, MongoDB, Angular, Ionic.
