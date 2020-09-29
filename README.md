@@ -20,3 +20,6 @@ I'm Diego Almeida, junior developer, passionate about Javascript technologies.
 - :blue_heart: Technologies: Node, Express, SQL, MongoDB, Angular, Ionic.
 
 "Be better than yesterday and tomorrow better than today."
+
+![Dyhalmeida Status](https://github-readme-stats.vercel.app/api?username=dyhalmeida&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dyhalmeida&layout=compact&langs_count=5&hide=java)](https://github.com/anuraghazra/github-readme-stats)
