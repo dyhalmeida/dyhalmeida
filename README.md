@@ -17,8 +17,9 @@ Tenho experiência em desenvolvimento front-end e back-end, mas venho tendo paix
 ## Hello 👋, 
 I am a software developer with experience in the javascript ecosystem.
 
-🧑‍💼 Technologies I work with: Angular 2+, React, Node (Nest, Express), GraphQL, MongoDB, Jest and Typescript.
-💪 Technologies I have proficiency in: SQL, OOP, React Native and Docker
+- 🧑‍💼 Technologies I work with: Angular 2+, React, Node (Nest, Express), GraphQL, MongoDB, Jest and Typescript.
+- 💪 Technologies I have proficiency in: SQL, OOP, React Native and Docker
+
 I have experience in front-end and back-end development, but have a passion for front-end and have been specializing in it.
 
 "Be better than yesterday and tomorrow better than today."
