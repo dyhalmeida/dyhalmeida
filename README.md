@@ -6,8 +6,8 @@
 
 ## A little more about me 
 ```typescript
-function makeHuman(): Human {
-  const diego: Human = {
+function makeDeveloper(): Developer {
+  const diego: Developer = {
     name: "Diego Almeida",
     nationality: "Brazilian",
     languages: [
