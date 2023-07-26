@@ -15,12 +15,12 @@ function makeHuman(): Human {
       "Technical English",
     ],
     technologies: {
-      JavaScript: ["React", "Angular", "Node"],
-      GoLang: ["GinGonic"],
-      Database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-      APIs: ["REST", "GraphQL"],
-      Design: ["Chakra UI", "Material-UI", "Tailwind"],
-      Infra: ["Docker"],
+      javascript: ["React", "Angular", "Node"],
+      golang: ["GinGonic"],
+      database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+      apis: ["REST", "GraphQL"],
+      design: ["Chakra UI", "Material-UI", "Tailwind"],
+      infra: ["Docker"],
     },
   }
   return diego
