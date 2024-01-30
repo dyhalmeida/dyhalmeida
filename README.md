@@ -19,7 +19,7 @@ function makeDeveloper(): Developer {
       golang: ["GinGonic"],
       database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
       apis: ["REST", "GraphQL"],
-      design: ["Chakra UI", "Material-UI", "Tailwind"],
+      ui: ["Chakra UI", "Material-UI", "Tailwind", "Styled Components", "Stitches"],
       infra: ["Docker"],
     },
   }
