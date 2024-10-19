@@ -18,7 +18,7 @@ function makeWebDeveloper(): WebDeveloper {
       javascript: ["React", "Angular", "Node", "Typescript"],
       golang: ["GinGonic"],
       database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-      apis: ["REST", "GraphQL"],
+      api: ["REST", "GraphQL"],
       ui: ["HTML", "CSS", "Chakra UI", "Styled Components", "Stitches", "Basic UI/UX"],
       others: ["Docker", "Git"],
     },
