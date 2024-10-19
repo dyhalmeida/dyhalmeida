@@ -6,23 +6,22 @@
 
 ## A little more about me 
 ```typescript
-function makeDeveloper(): Developer {
-  const diego: Developer = {
+function makeWebDeveloper(): WebDeveloper {
+  return {
     name: "Diego Almeida",
     nationality: "Brazilian",
     languages: [
       "Portuguese",
-      "Technical English",
+      "English in progress",
     ],
     technologies: {
-      javascript: ["React", "Angular", "Node"],
+      javascript: ["React", "Angular", "Node", "Typescript"],
       golang: ["GinGonic"],
       database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
       apis: ["REST", "GraphQL"],
-      ui: ["Chakra UI", "Material-UI", "Tailwind", "Styled Components", "Stitches"],
-      infra: ["Docker"],
+      ui: ["HTML", "CSS", "Chakra UI", "Styled Components", "Stitches", "Basic UI/UX"],
+      others: ["Docker", "Git"],
     },
   }
-  return diego
 }
 ```
