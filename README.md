@@ -16,10 +16,10 @@ function makeWebDeveloper(): WebDeveloper {
     ],
     technologies: {
       javascript: ["React", "Angular", "Node", "Typescript"],
-      golang: ["GinGonic"],
+      golang: ["Chi Router", "gRPC", "GraphQL", "Gorm"],
       database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
       api: ["REST", "GraphQL"],
-      ui: ["HTML", "CSS", "Chakra UI", "Styled Components", "Stitches", "Basic UI/UX"],
+      ui: ["HTML", "CSS", "Chakra UI", "Styled Components", "Stitches", "UI/UX"],
       others: ["Docker", "Git"],
     },
   }
