@@ -14,14 +14,16 @@ function makeWebDeveloper(): WebDeveloper {
       "Portuguese",
       "English in progress",
     ],
-    technologies: {
-      javascript: ["React", "Angular", "Node", "Typescript"],
-      golang: ["Chi Router", "gRPC", "GraphQL", "Gorm"],
-      database: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-      api: ["REST", "GraphQL"],
-      ui: ["HTML", "CSS", "Chakra UI", "Styled Components", "Stitches", "UI/UX"],
-      others: ["Docker", "Git"],
-    },
+    technologies: [
+      "HTML | CSS",
+      "JavaScript | TypeScript",
+      "React | Next",
+      "NodeJS",
+      "Go",
+      "Docker",
+      "Git",
+      "MySQL | Postgres",
+    ]
   }
 }
 ```
