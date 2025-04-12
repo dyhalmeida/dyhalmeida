@@ -23,6 +23,12 @@ function makeWebDeveloper(): WebDeveloper {
       "Docker",
       "Git",
       "MySQL | Postgres"
+    ],
+    hobbies: [
+      "Watch football",
+      "Watch movies | series",
+      "Play games",
+      "Read books in progress"
     ]
   }
 }
