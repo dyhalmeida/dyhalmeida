@@ -22,7 +22,7 @@ function makeWebDeveloper(): WebDeveloper {
       "Go",
       "Docker",
       "Git",
-      "MySQL | Postgres",
+      "MySQL | Postgres"
     ]
   }
 }
