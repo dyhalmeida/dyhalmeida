@@ -9,7 +9,6 @@
 function makeWebDeveloper(): WebDeveloper {
   return {
     name: "Diego Almeida",
-    nationality: "Brazilian",
     languages: [
       "Portuguese",
       "English in progress",
@@ -17,18 +16,12 @@ function makeWebDeveloper(): WebDeveloper {
     technologies: [
       "HTML | CSS",
       "JavaScript | TypeScript",
-      "React | Next",
-      "NodeJS",
+      "React | Next.JS",
+      "NodeJS | Nest.JS | Express",
       "Go",
       "Docker",
       "Git",
       "MySQL | Postgres"
-    ],
-    hobbies: [
-      "Watch football",
-      "Watch movies | series",
-      "Play games",
-      "Read books in progress"
     ]
   }
 }
